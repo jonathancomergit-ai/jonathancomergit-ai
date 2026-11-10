@@ -11,7 +11,7 @@ I train machine learning models from scratch, build physics simulations, and vid
 **Dream World**: What if a model could dream a street while you walk down it? This is a diffusion world model I trained from scratch. One fix to how each frame starts took a clean walk from 4 seconds to 11, on the same weights!
 → [see it dream](https://jonjoe1001.dev/research.html)
 
-**MiniGPT**: My own 350-million-parameter language model, trained from zero. No one else's weights! 16 billion tokens, about 4 days on one GPU, and it went from 24.7% to 63.1% on ARC-Easy science questions. I built the tests before the real run so every checkpoint gets judged the same way.
+**MiniGPT**: My own 369-million-parameter language model, trained from zero. No one else's weights! 16 billion tokens, about 4 days on one GPU, and it went from 24.7% to 63.1% on ARC-Easy science questions. I built the tests before the real run so every checkpoint gets judged the same way.
 → [the real training charts](https://jonjoe1001.dev/research.html)
 
 **MindFlight**: Thousands of simulated drones learning to fly at once. My own batched quadcopter physics in PyTorch, and PPO written as one readable file.
