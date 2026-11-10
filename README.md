@@ -1,6 +1,6 @@
 ## Hey, I'm Jonathan
 
-I train machine learning models from scratch and build physics simulations, all on one very overworked GPU. I'm a software engineering and physics student, and an independent researcher the rest of the time.
+I train machine learning models from scratch, build physics simulations, and video games for fun here and there! I'm a software engineering and physics student, and an independent researcher the rest of the time.
 
 **WELCOME FRIENDS, LET'S GET CURIOUS!**
 
