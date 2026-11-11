@@ -9,10 +9,10 @@ I train machine learning models from scratch, build physics simulations, and vid
 ### Research
 
 **Dream World**: What if a model could dream a street while you walk down it? This is a diffusion world model I trained from scratch. One fix to how each frame starts took a clean walk from 4 seconds to 11, on the same weights!
-→ [see it dream](https://jonjoe1001.dev/research.html)
+→ [see it dream](https://jonjoe1001.dev/projects/dream-world.html) · [code](https://github.com/jonathancomergit-ai/dream-world)
 
 **MiniGPT**: My own 369-million-parameter language model, trained from zero. No one else's weights! 16 billion tokens, about 4 days on one GPU, and it went from 24.7% to 63.1% on ARC-Easy science questions. I built the tests before the real run so every checkpoint gets judged the same way.
-→ [the real training charts](https://jonjoe1001.dev/research.html)
+→ [the real training charts](https://jonjoe1001.dev/projects/minigpt.html) · [code](https://github.com/jonathancomergit-ai/minigpt)
 
 **MindFlight**: Thousands of simulated drones learning to fly at once. My own batched quadcopter physics in PyTorch, and PPO written as one readable file.
 → [code](https://github.com/jonathancomergit-ai/MindFlight)
@@ -23,8 +23,8 @@ I train machine learning models from scratch, build physics simulations, and vid
 
 ### Also on the bench
 
-- **gpu_primes**: hunting primes on the GPU with CUDA. Turns out my graphics card is REALLY good at this!
-- **Fly Terrarium**: a fruit fly driven by the REAL wiring of a fly's whole nervous system. 165,122 spiking neurons running in real time on the GPU.
+- **[gpu_primes](https://github.com/jonathancomergit-ai/gpu_primes)**: hunting primes on the GPU with CUDA. Turns out my graphics card is REALLY good at this!
+- **[Fly Terrarium](https://github.com/jonathancomergit-ai/fly-terrarium)**: a fruit fly driven by the REAL wiring of a fly's whole nervous system. 165,122 spiking neurons running in real time on the GPU.
 - **Emergent Evolver**: you draw a creature, a brain grows its own neurons, and a few hundred generations later the thing RUNS. [Play it in your browser](https://jonjoe1001.itch.io/emergent-evolver)
 
 ---
